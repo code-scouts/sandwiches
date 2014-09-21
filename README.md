@@ -5,9 +5,10 @@
 3. [Classic Breakfast](./Classic-Breakfast.md) - A quick and simple breakfast sandwich.
 4. [Grilled Cheese](./Grilled-Cheese.md) - A classic grilled sandwich.
 5. [Peanut Butter](./PB-Sammy.md) - A plain sandwich.
-6. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
-7. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
-8. [Turkey and Pastrami](./pastrami-and-turkey.md) - A simple meat and cheese sandwich.
+6. [Super Sunrise](./Super-Sunrise.md) - A tasty breakfast alternative.
+7. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
+8. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
+9. [Turkey and Pastrami](./pastrami-and-turkey.md) - A simple meat and cheese sandwich.
 
 ## Background
 
