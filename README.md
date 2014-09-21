@@ -7,6 +7,7 @@
 5. [Peanut Butter](./PB-Sammy.md) - A plain sandwich.
 6. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
 7. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
+8. [Turkey and Pastrami](./pastrami-and-turkey.md) - A simple meat and cheese sandwich.
 
 ## Background
 
